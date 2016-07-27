@@ -93,5 +93,6 @@ public class KMean {
 			sum = sum + value;
 		} return sum / list.size();
 		}
+	
 		
 	}
